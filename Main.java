@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         ReservationSystem system = new ReservationSystem();
-
+/// trying
         Event concert = new Event("Symphony Concert", 120.0);
         Event theater = new Event("Hamlet", 85.0);
         system.addEvent(concert);
